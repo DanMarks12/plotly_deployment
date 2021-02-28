@@ -1,0 +1,10 @@
+body {
+
+    color: #e01818;
+  }
+
+  .jumbotron {
+    background-image: url("../Images/germs.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
